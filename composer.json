@@ -1,0 +1,17 @@
+{
+    "name": "root/php-test-framework",
+    "description": "Un framework di test generico per applicazioni PHP/MySQL",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Root\\PhpTestFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ProfPaul"
+        }
+    ],
+    "require": {}
+}
